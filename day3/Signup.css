@@ -1,0 +1,28 @@
+body{
+    background-image:url(https://img.freepik.com/free-photo/copy-space-phone-desk_23-2148519756.jpg?w=1060&t=st=1688913812~exp=1688914412~hmac=7b93a5d56774153d205b5a4a5b72636e26b57ef20805492b6cf98dc3da1843c3) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.signinfo
+{
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    margin-left: 1000px;
+    margin-top: 65px;
+    background-color: azure;
+    border: solid rgb(1, 11, 12) 5px;
+    
+}
+.reg
+{
+    padding-left: 8px;
+    margin-left: 15px;
+}
+.box
+{
+    position: absolute;
+    margin-left: 500px;
+}
